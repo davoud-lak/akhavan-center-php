@@ -2921,6 +2921,10 @@ details.collapse summary::-webkit-details-marker{
   padding-top: 1.5rem;
   padding-bottom: 1.5rem;
 }
+.py-8{
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
 .py-0{
   padding-top: 0px;
   padding-bottom: 0px;
@@ -2948,6 +2952,9 @@ details.collapse summary::-webkit-details-marker{
 }
 .text-right{
   text-align: right;
+}
+.text-justify{
+  text-align: justify;
 }
 .font-YekanBakh-Bold{
   font-family: YekanBakh-Bold;
